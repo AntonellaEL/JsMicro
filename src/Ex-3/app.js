@@ -1,19 +1,3 @@
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
  const inputUsername= document.getElementById('username')
  const btnValidate=document.getElementById('btn-validate')
